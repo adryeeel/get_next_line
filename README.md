@@ -15,7 +15,7 @@ This project is a fundamental part of the curriculum at 42 school, designed to s
 
 - Supports custom buffer sizes for optimal performance.
 
-- Memory leaks proof.
+- Memory leak proof.
 
 ## Usage
 
