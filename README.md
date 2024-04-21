@@ -9,13 +9,13 @@ This project is a fundamental part of the curriculum at 42 school, designed to s
 
 ## Key Features
 
+- Memory leak proof.
+
 - Efficient parsing of input from any file descriptor.
 
 - Handles multiple file descriptors simultaneously.
 
-- Supports custom `BUFFER_SIZE` for optimal performance.
-
-- Memory leak proof.
+- For optimal performance, the project supports custom `BUFFER_SIZE` values through the `-D` compiler flag.
 
 ## Usage
 
