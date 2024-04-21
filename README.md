@@ -13,7 +13,7 @@ This project is a fundamental part of the curriculum at 42 school, designed to s
 
 - Handles multiple file descriptors simultaneously.
 
-- Supports custom buffer sizes for optimal performance.
+- Supports custom `BUFFER_SIZE` for optimal performance.
 
 - Memory leak proof.
 
