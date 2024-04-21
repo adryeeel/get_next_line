@@ -7,6 +7,20 @@ This project, `get_next_line`, consists of implementing a function that performs
 
 This project is a fundamental part of the curriculum at 42 school, designed to strengthen your understanding of buffer management, file manipulation, memory leaks and static variables in C.
 
+## Function Description
+
+The `get_next_line` function behaviour is very simple:
+
+- It receives a file descriptor as paramenter.
+
+- The file descriptor is read to a buffer.
+
+- The buffer is processed and the next line is returned. A line is limited by a `\n` char.
+
+- For each sucessive call of `get_next_line`, the next line from `fd` is returned, without repetition.
+
+- When there is nothing more to process, `NULL` is returned.
+
 ## Key Features
 
 - Memory leak proof.
