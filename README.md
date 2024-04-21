@@ -15,7 +15,7 @@ This project is a fundamental part of the curriculum at 42 school, designed to s
 
 - Handles multiple file descriptors simultaneously.
 
-- For optimal performance, the project supports custom `BUFFER_SIZE` values through the `-D` compiler flag.
+- Supports custom `BUFFER_SIZE` values through the `-D` compiler flag for optimal performance.
 
 ## Usage
 
