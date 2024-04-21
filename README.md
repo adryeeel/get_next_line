@@ -39,4 +39,4 @@ If you encounter any issues or have suggestions for improving the project, pleas
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), allowing for modification and distribution under certain conditions. Refer to the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE).
