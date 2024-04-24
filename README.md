@@ -7,7 +7,7 @@ This project, `get_next_line`, consists of implementing a function that performs
 
 This project is a fundamental part of the curriculum at 42 school, designed to strengthen your understanding of buffer management, file manipulation, memory leaks and static variables in C.
 
-## Function Description
+## Project Overview
 
 The `get_next_line` function behaviour is very simple:
 
